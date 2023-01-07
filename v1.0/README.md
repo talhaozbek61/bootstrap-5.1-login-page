@@ -9,7 +9,7 @@ You can use it as you wish and it's free for personal or commercial use.
 Just download this template, use it on your project.
 
 # Demo
-- [Login Page](https://htmlpreview.github.io/?https://github.com/talhaozbek61/bootstrap-5.1-login-page/blob/master/index.html)
+- [Login Page](https://htmlpreview.github.io/?https://github.com/talhaozbek61/bootstrap-5.1-login-page/blob/main/v1.0/index.html)
 
 # Features
 - Bootstrap 5.1.3
