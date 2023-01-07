@@ -2,7 +2,7 @@
 
 You can use it as you wish and it's free for personal or commercial use.
 
-![v1.0](img/v1.0_image.png)
+![v1.0](v1.0/img/v1.0_image.png)
 
 # Installation
 
